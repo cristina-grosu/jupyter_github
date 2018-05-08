@@ -1,6 +1,6 @@
 # jupyter_github
 
-githubcommit is a jupyter notebook extension enabling users push ipython notebooks to a git repo.
+jupyter_github is a jupyter notebook extension enabling users push ipython notebooks to a git repo.
 The git button gets displayed in the notebook toolbar. After saving any notebook
 the user can push notebook to pre-specified git repository. There are few
 environment variables that must be exported. Currently this extension supports
