@@ -1,4 +1,4 @@
-# githubcommit
+# jupyter_github
 
 githubcommit is a jupyter notebook extension enabling users push ipython notebooks to a git repo.
 The git button gets displayed in the notebook toolbar. After saving any notebook
