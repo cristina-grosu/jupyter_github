@@ -22,7 +22,7 @@ export GIT_REMOTE_UPSTREAM=$GIT_USER_UPSTREAM/$GIT_REPO_NAME
 
 
 ####################### Git Repo where notebooks will be pushed ############
-cd $GIT_PARENT_DIR && git clone $GIT_REMOTE_URL_HTTPS
+cd $PARENT_DIR && git clone $GIT_REMOTE_URL_HTTPS
 
 
 ####################### Change in jupyter config ###########################
